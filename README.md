@@ -66,7 +66,6 @@ streamlit run app.py
 * OpenCV
 * NumPy
 * Pillow (PIL)
-* [Nayuki’s QR Code Generator](https://github.com/nayuki/QR-Code-generator)
 
 ---
 
