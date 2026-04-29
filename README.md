@@ -41,9 +41,9 @@ Built with ❤️ using [Streamlit](https://streamlit.io), it's ideal for studen
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/qrflow.git
+git clone https://github.com/Nachiket1904/qrflow.git
 cd qrflow
-````
+```
 
 ### 2. Install Dependencies
 
@@ -80,7 +80,7 @@ streamlit run app.py
 ## 👨‍💻 Author
 
 Built with care by **Nachiket Kapure**
-📫 [nachiketkapure01@gmail.com](mailto:nachiketkapure01@gmail.com)
+📫 [kapnachi1904@gmail.com](mailto:kapnachi1904@gmail.com)
 🔗 [GitHub](https://github.com/Nachiket1904) | [LinkedIn](www.linkedin.com/in/nachiket-kapure-ml-enginner)
 
 ---
