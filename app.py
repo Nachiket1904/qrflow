@@ -72,7 +72,7 @@ if user_input:
             1,
             "Camera Capture",
             "📷 Your phone camera captures the image of the QR code.",
-            "C:\\Users\\chinmay\\Videos\\codes\\python\\QR_Attendance-main\\assets\\step1_camera_capture.png"
+            "assets/step1_camera_capture.png"
         )
 
     if step >= 2:
@@ -80,7 +80,7 @@ if user_input:
             2,
             "Pattern Detection",
             "🧱 QR code patterns (finder, alignment, timing) are identified.",
-            "C:\\Users\\chinmay\\Videos\\codes\\python\\QR_Attendance-main\\assets\\step2_pattern_detection.png"
+            "assets/step2_pattern_detection.png"
         )
 
     if step >= 3:
@@ -88,7 +88,7 @@ if user_input:
             3,
             "Perspective Correction",
             "📐 The QR code image is corrected to a square for accurate decoding.",
-            "C:\\Users\\chinmay\\Videos\\codes\\python\\QR_Attendance-main\\assets\\step3_perspective_correction.png"
+            "assets/step3_perspective_correction.png"
         )
 
     if step >= 4:
@@ -96,7 +96,7 @@ if user_input:
             4,
             "Bitstream Extraction",
             "🧬 The QR code modules are translated into a binary bitstream.",
-            "C:\\Users\\chinmay\\Videos\\codes\\python\\QR_Attendance-main\\assets\\step4_bitstream_extraction.png"
+            "assets/step4_bitstream_extraction.png"
         )
 
     if step >= 5:
@@ -104,7 +104,7 @@ if user_input:
             5,
             "Error Correction & Decoding",
             "🔓 The bitstream is decoded to recover the original text using error correction.",
-            "C:\\Users\\chinmay\\Videos\\codes\\python\\QR_Attendance-main\\assets\\step5_error_correction.png"
+            "assets/step5_error_correction.png"
         )
     if step >= 6:
         st.success("✅ **Decoded Content:**")
